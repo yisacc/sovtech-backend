@@ -1,0 +1,9 @@
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\bin\Debug\netcoreapp3.1\SovTechBackend.Service.deps.json
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\bin\Debug\netcoreapp3.1\SovTechBackend.Service.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\bin\Debug\netcoreapp3.1\SovTechBackend.Service.pdb
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.AssemblyInfoInputs.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.AssemblyInfo.cs
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.dll
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.pdb

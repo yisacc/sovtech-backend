@@ -1,5 +1,5 @@
-﻿//using SovTechBackend.Service.categories;
-//using SovTechBackend.Service.People;
+﻿using SovTechBackend.Service.categories;
+using SovTechBackend.Service.People;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace SovTechBackend.API.Extensions
@@ -9,9 +9,9 @@ namespace SovTechBackend.API.Extensions
         public static void AddScope(IServiceCollection services)
         {
             //Services
-            //services.AddScoped<ICategoryService, CategoryService>();
-            //services.AddScoped<IPeopleService, PeopleService>();
-            //services.AddScoped<IJokeService, JokeService>();
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IPeopleService, PeopleService>();
+            services.AddScoped<IJokeService, JokeService>();
 
         }
     }
