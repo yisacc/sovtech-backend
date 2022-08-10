@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+
 namespace SovTechBackend.API.Controllers
 {
     [ApiController]
@@ -18,7 +19,6 @@ namespace SovTechBackend.API.Controllers
             _peopleService = peopleService;
         }
 
-     
         [HttpGet("people")]
         public  async Task<IActionResult> GetAllPeople()
         {
