@@ -1,5 +1,6 @@
 ﻿using SovTechBackend.Service.categories;
 using SovTechBackend.Service.People;
+using SovTechBackend.Service.Joke;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace SovTechBackend.API.Extensions

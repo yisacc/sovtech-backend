@@ -1,6 +1,7 @@
 ﻿using SovTechBackend.API.Model;
 using SovTechBackend.Service.categories;
 using SovTechBackend.Service.People;
+using SovTechBackend.Service.Joke;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;

@@ -7,3 +7,4 @@ D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBa
 D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.csproj.CoreCompileInputs.cache
 D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.dll
 D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.pdb
+D:\Personal\Projects\SovTech\My Project\sovtech-backend\SovTechBackend\SovTechBackend.Service\obj\Debug\netcoreapp3.1\SovTechBackend.Service.csproj.AssemblyReference.cache
