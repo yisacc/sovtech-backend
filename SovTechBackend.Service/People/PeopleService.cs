@@ -10,11 +10,7 @@ namespace SovTechBackend.Service.People
 {
     public class PeopleService : IPeopleService
     {
-        private readonly IConfiguration _configuration;
-        public PeopleService(IConfiguration iconfiguration)
-        {
-            _configuration = iconfiguration;
-        }
+        public PeopleService(){}
         public async Task<PeopleDTO> GetAllPeoples()
         {
             string Baseurl = "https://swapi.dev/api/";

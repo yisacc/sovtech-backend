@@ -10,11 +10,7 @@ namespace SovTechBackend.Service.categories
 {
     public class CategoryService : ICategoryService
     {
-        private readonly IConfiguration _configuration;
-        public CategoryService(IConfiguration iconfiguration)
-        {
-            _configuration = iconfiguration;
-        }
+        public CategoryService(){}
         public async Task<List<string>> GetCategories()
         {
             string Baseurl = "https://api.chucknorris.io/jokes/";

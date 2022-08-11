@@ -10,11 +10,7 @@ namespace SovTechBackend.Service.Joke
 {
     public class JokeService : IJokeService
     {
-        private readonly IConfiguration _configuration;
-        public JokeService(IConfiguration iconfiguration)
-        {
-            _configuration = iconfiguration;
-        }
+        public JokeService(){}
      
         public async Task<JokeDTO> SearchJokes(string query)
         {
