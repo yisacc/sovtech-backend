@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SovTechBackend.API", "SovTechBackend.API\SovTechBackend.API.csproj", "{072D8B11-43AA-45C4-912B-94196CA38CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SovTechBackend.API", "SovTechBackend.API\SovTechBackend.API.csproj", "{072D8B11-43AA-45C4-912B-94196CA38CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SovTechBackend.Service", "SovTechBackend.Service\SovTechBackend.Service.csproj", "{673ADAA5-F81E-4749-B63D-D18DB8B17AD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SovTechBackend.Service", "SovTechBackend.Service\SovTechBackend.Service.csproj", "{673ADAA5-F81E-4749-B63D-D18DB8B17AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SovTechBackend.Test", "SovTechBackend.Test\SovTechBackend.Test.csproj", "{E429CE72-2030-4D55-B712-8FAD4B2FD897}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{673ADAA5-F81E-4749-B63D-D18DB8B17AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{673ADAA5-F81E-4749-B63D-D18DB8B17AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{673ADAA5-F81E-4749-B63D-D18DB8B17AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E429CE72-2030-4D55-B712-8FAD4B2FD897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E429CE72-2030-4D55-B712-8FAD4B2FD897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E429CE72-2030-4D55-B712-8FAD4B2FD897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E429CE72-2030-4D55-B712-8FAD4B2FD897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
