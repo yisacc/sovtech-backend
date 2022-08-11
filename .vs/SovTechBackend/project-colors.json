@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "072d8b11-43aa-45c4-912b-94196ca38cb2": {
+      "ProjectGuid": "072d8b11-43aa-45c4-912b-94196ca38cb2",
+      "DisplayName": "SovTechBackend.API",
+      "ColorIndex": 0
+    },
+    "673adaa5-f81e-4749-b63d-d18db8b17ad6": {
+      "ProjectGuid": "673adaa5-f81e-4749-b63d-d18db8b17ad6",
+      "DisplayName": "SovTechBackend.Service",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
